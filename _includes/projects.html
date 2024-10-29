@@ -15,8 +15,8 @@
       <p>{{ projects.intro }}</p>
   </div><!--//intro-->
   {% endif %}
-
-  {% for project in projects.assignments %}
+  <div class="project-items">
+    {% for project in projects.assignments %}
     <div class="item">
 
       <span class="project-title">
@@ -32,7 +32,8 @@
       {% endif %}
 
     </div><!--//item-->
-  {% endfor %}
+    {% endfor %}
+  </div>
 
 </section><!--//section-->
 {% endif %}

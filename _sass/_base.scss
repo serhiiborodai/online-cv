@@ -230,6 +230,11 @@ p {
       margin-bottom: 15px;
     }
   }
+  .project-items {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0 65px;
+  }
   .oss-section {
     .intro {
       margin-bottom: 30px;
