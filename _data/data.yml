@@ -212,6 +212,34 @@ projects:
         link: "#"
         tagline:
 
+      - title: gg.skin
+        link: "https://gg.skin"
+        tagline:
+
+      - title: GazWerks
+        link: "https://gazwerks.com/"
+        tagline:
+
+      - title: PayPerWash
+        link: "https://www.payperwash.com/"
+        tagline:
+
+      - title: ChiaraCo
+        link: "https://www.chiaracolombini.com/"
+        tagline:
+
+      - title: TwyxUs
+        link: "https://twyx.us/"
+        tagline:
+
+      - title: 23merch.com
+        link: "https://23merch.com/"
+        tagline:
+
+      - title: SVKAlliance
+        link: "https://svkalliance.com.ua/"
+        tagline:
+
 #oss:
 #    title: OSS Contributions
 #    intro: >
