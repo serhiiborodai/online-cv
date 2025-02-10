@@ -85,10 +85,28 @@ experiences:
     title: Experiences
     info:
       - role: JavaScript developer
+        time: 2023 – 2025
+        company: PayPerWash
+        details: |
+          Working with CRM that helps to manage big net of laundries, their company income, visitors, mashines starts/finishes
+
+      - role: JavaScript developer
+        time: 2024 – 2023
+        company: TwyxUs
+        details: |
+          As owner, created portal and blog where posts managed by ChatGPT
+
+      - role: JavaScript developer
         time: 2022 – 2023
         company: Brazy
         details: |
           Development of the online trad platform. Mentoring and onboarding more juniors developers.
+
+      - role: JavaScript developer
+        time: 2023 – 2025
+        company: Sequoia2000
+        details: |
+          Working with child brands sites for a large ukrainian manufacturing and retailing company (plumbing products)
 
       - role: JavaScript developer
         time: 2021 – 2022
